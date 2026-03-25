@@ -118,7 +118,7 @@ The user interacts with Grafana through dashboards. Data is retrieved from a dat
 
 ## 4.3 High-level architecture diagram
 
-![diagram](docs/images/archDiagram1.png)
+![diagram](images/archDiagram1.png)
 
 ## 4.4 Notes
 
