@@ -118,15 +118,7 @@ The user interacts with Grafana through dashboards. Data is retrieved from a dat
 
 ## 4.3 High-level architecture diagram
 
-[USER]
-↓
-Grafana UI
-↓
-Grafana LLM Plugin
-↓
-OpenAI API
-
-Grafana → Data Source
+![diagram](docs/images/archDiagram1.png)
 
 ## 4.4 Notes
 
